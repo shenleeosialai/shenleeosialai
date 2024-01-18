@@ -16,8 +16,8 @@ I'm currently focused on improving my skills in [Full stack development].
 
 ## 📚 Featured Projects
 
-1. [Project 1](link-to-project1): Short description
-2. [Project 2](link-to-project2): Short description
+1. [Aquaworld](link-to-project1): website to educate elementary kids about water cycle
+
    <!-- Add more projects as needed -->
 
 ## 📫 Let's Connect
@@ -27,8 +27,8 @@ I'm currently focused on improving my skills in [Full stack development].
 
 ## 🚀 Fun Facts
 
-- [Any interesting fact about yourself]
-- [Another fun fact]
+- [You can learn to code better using alot of projects from youtube]
+
 
 Thanks for visiting! 😊
 
