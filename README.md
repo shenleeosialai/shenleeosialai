@@ -1,14 +1,14 @@
-# Hello, I'm [@shenlee osialai]! 👋
+# Hello, I'm shenlee osialai! 👋
 
-I'm a passionate [ full stack developer], interested in [all things tech]. Welcome to my GitHub profile!
+I'm a passionate full stack developer, interested in all things tech. Welcome to my GitHub profile!
 
 ## 🔧 Skills & Tools
 
-- **Programming Languages:** [javascript,python,HTML and CSS]
+- **Programming Languages:** [javascript,python,React js,HTML and CSS]
 
 ## 🌱 Currently Learning
 
-I'm currently focused on improving my skills in [Full stack development].
+I'm currently focused on improving my skills in Full stack development.
 
 ## 📊 GitHub Stats
 
