@@ -12,7 +12,7 @@ I'm currently focused on improving my skills in Full stack development.
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shenleeosialai&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
 
 ## 📚 Featured Projects
 
