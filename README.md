@@ -4,7 +4,7 @@ I'm a passionate full stack developer, interested in all things tech. Welcome to
 
 ## 🔧 Skills & Tools
 
-- **Programming Languages:** [javascript,python,React js,HTML and CSS]
+- **Programming Languages:** [javascript,python,React js,django,HTML and CSS]
 
 ## 🌱 Currently Learning
 
