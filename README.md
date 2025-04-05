@@ -21,15 +21,11 @@ I'm currently focused on improving my skills in Full stack development.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 
-## 📚 Featured Projects
-
-1. [Aquaworld](link-to-project1): website to educate elementary kids about water cycle
-
-   <!-- Add more projects as needed -->
-
 ## 📫 Let's Connect
 
--instagram;[@pro_.di.ge]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shenleeosialai)  
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/shenleeosialai)
+
 
 
 ## 🚀 Fun Facts
