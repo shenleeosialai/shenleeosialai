@@ -1,10 +1,10 @@
 <!-- Header -->
 <h1 align="center">Hey 👋, I'm Shenlee Osialai</h1>
-<h3 align="center">🚀 Full-Stack Developer | 🧠 Tech Explorer | 🇰🇪 Building the Future from Africa</h3>
+<h3 align="center">🚀 Full-Stack Developer | 🧠 Tech Explorer | Turning ideas to reality</h3>
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Python+%7C+Django+%7C+C%2B%2B+%7C+JavaScript;I+design+scalable+web+solutions.;Clean+Code.+Bold+Ideas.+Real+Impact.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Python+%7C+Django+%7C+C%2B%2B+%7C+JavaScript;I+design+scalable+impactful+solutions.;Clean+Code.+Bold+Ideas.+Real+Impact.">
 </p>
 
 <!-- Badges -->
