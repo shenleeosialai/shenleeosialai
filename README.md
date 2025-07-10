@@ -42,12 +42,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="start">
+<p align="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=shenleeosialai&show_icons=true&theme=dark&count_private=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shenleeosialai&theme=dark" height="180"/>
 </p>
 
-<p align="center">
+<p align="flex">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenleeosialai&layout=compact&theme=dark"/>
 </p>
 
