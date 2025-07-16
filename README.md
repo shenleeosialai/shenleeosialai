@@ -15,9 +15,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <picture>
-    ![Skills_Animation_Dark](https://github.com/user-attachments/assets/68eabdcf-b99b-4b9e-8372-26f466054f37)
-  </picture>
+  ![Skills_Animation_Dark](https://github.com/user-attachments/assets/68eabdcf-b99b-4b9e-8372-26f466054f37)
 </p>
 
 ## 🧩 About Me
