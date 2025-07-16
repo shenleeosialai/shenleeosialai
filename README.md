@@ -13,6 +13,14 @@
   <img src="https://img.shields.io/github/followers/shenleeosialai?style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/YOLO-Merged%20Own%20PR-black?style=flat-square&logo=github" />
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+    <img alt="GIF description" src="./Skills_Animation_White.gif">
+  </picture>
+</p>
+
 ## 🧩 About Me
 
 💻 Specializing in **Python, Django, JavaScript, and C++**  
