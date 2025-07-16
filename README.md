@@ -12,12 +12,12 @@
   <img src="https://komarev.com/ghpvc/?username=shenleeosialai&label=Profile%20Views&color=gray&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/github/followers/shenleeosialai?style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/YOLO-Merged%20Own%20PR-black?style=flat-square&logo=github" />
-
-## 🛠️ Tech Stack
-<p align="center">
-  ![Skills_Animation_Dark](https://github.com/user-attachments/assets/68eabdcf-b99b-4b9e-8372-26f466054f37)
 </p>
 
+## 🛠️ Tech Stack
+<div align="center">
+  ![Skills_Animation_Dark](https://github.com/user-attachments/assets/68eabdcf-b99b-4b9e-8372-26f466054f37)
+</div>
 ## 🧩 About Me
 
 💻 Specializing in **Python, Django, JavaScript, and C++**  
