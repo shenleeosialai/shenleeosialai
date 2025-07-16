@@ -13,13 +13,9 @@
   <img src="https://img.shields.io/github/followers/shenleeosialai?style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/YOLO-Merged%20Own%20PR-black?style=flat-square&logo=github" />
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-    <img alt="GIF description" src="./Skills_Animation_White.gif">
-  </picture>
-</p>
+## 🛠️ Tech Stack
+
+![Skills_Animation_Dark](https://github.com/user-attachments/assets/68eabdcf-b99b-4b9e-8372-26f466054f37)
 
 ## 🧩 About Me
 
@@ -29,21 +25,6 @@
 🎯 Goal: Join a **global tech team** and contribute to impactful open-source tools  
 💡 Love turning **complex ideas** into **simple, usable applications**
 
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/>
-</p>
-
----
 
 ## 📊 GitHub Stats
 <div align="center">
