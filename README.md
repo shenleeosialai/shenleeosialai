@@ -15,9 +15,11 @@
 </p>
 
 ## 🛠️ Tech Stack
-<div align="center">
-  ![Skills_Animation_Dark](https://github.com/user-attachments/assets/68eabdcf-b99b-4b9e-8372-26f466054f37)
-</div>
+
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/68eabdcf-b99b-4b9e-8372-26f466054f37" alt="Skills_Animation_Dark" />
+</p>
+
 ## 🧩 About Me
 
 💻 Specializing in **Python, Django, JavaScript, and C++**  
@@ -37,7 +39,6 @@
  <a href="https://github.com/shenleeosialai?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=shenleeosialai&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@shenleeosialai's github-readme-stats"/></a>
  <a href="https://github.com/shenleeosialai?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=shenleeosialai&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@shenleeosialai's github-readme-streak-stats"/></a>
 </div>
----
 
 ## 🏆 GitHub Trophies
 <p align="center">
