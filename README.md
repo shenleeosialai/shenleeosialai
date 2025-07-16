@@ -14,8 +14,11 @@
   <img src="https://img.shields.io/badge/YOLO-Merged%20Own%20PR-black?style=flat-square&logo=github" />
 
 ## 🛠️ Tech Stack
-
-![Skills_Animation_Dark](https://github.com/user-attachments/assets/68eabdcf-b99b-4b9e-8372-26f466054f37)
+<p align="center">
+  <picture>
+    ![Skills_Animation_Dark](https://github.com/user-attachments/assets/68eabdcf-b99b-4b9e-8372-26f466054f37)
+  </picture>
+</p>
 
 ## 🧩 About Me
 
