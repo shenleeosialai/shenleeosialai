@@ -1,6 +1,6 @@
 <!-- Black Minimalist Header -->
-<h1 align="center">Hey 👋, I'm Shenlee Osialai</h1>
-<h3 align="center">🚀 Full-Stack Developer | 🧠 Tech Explorer | Turning Ideas into Reality</h3>
+<h1 align="center">Hey 👋, I'm Shen Lee </h1>
+<h3 align="center">🚀 Full-Stack Developer | 🧠 Tech Explorer | Comic Book fan</h3>
 
 <!-- Typing Effect -->
 <p align="center">
@@ -20,7 +20,7 @@
   <img src="https://github.com/user-attachments/assets/68eabdcf-b99b-4b9e-8372-26f466054f37" alt="Skills_Animation_Dark" />
 </p>
 
-## 🧩 About Me
+## 🧩 About
 
 💻 Specializing in **Python, Django, JavaScript, and C++**  
 🌍 Passionate about **decentralized apps, e-commerce platforms, and real-time systems**  
@@ -31,8 +31,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-    <a href="https://github.com/Top-Lead-Blockchain">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Top-Lead-Blockchain&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
+    <a href="https://github.com/shenleeosialai">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=shenleeosialai&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
     </a>
 </div>
 <div align="center">
@@ -45,7 +45,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=shenleeosialai&theme=darkhub&no-frame=true&column=6&margin-w=8"/>
 </p>
 
----
+
 
 ## 📂 Featured Projects
 
@@ -53,9 +53,8 @@
 - 🛒 [**Fullstack E-commerce Web App**](https://github.com/shenleeosialai/OSHEN-COMICS)
 - 💬 [**Social Chat App**](https://github.com/shenleeosialai/B-HYVE)
 
-> 🌟 *More projects on the way… Stay tuned!*
+> 🌟 *More projects on the way…*
 
----
 
 ## 🔗 Let's Connect
 
@@ -65,9 +64,3 @@
   </a>
 </p>
 
----
-
-<!-- Black Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
