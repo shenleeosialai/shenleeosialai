@@ -59,7 +59,7 @@
 ## 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/shenleeosialai">
+  <a href="https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
