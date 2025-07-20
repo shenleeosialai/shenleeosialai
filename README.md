@@ -49,9 +49,9 @@
 
 ## 📂 Featured Projects
 
-- 🔥 [**Blog app**](https://github.com/shenleeosialai/OSHEN-BLOGS)
-- 🛒 [**Fullstack E-commerce Web App**](https://github.com/shenleeosialai/OSHEN-COMICS)
-- 💬 [**Social Chat App**](https://github.com/shenleeosialai/B-HYVE)
+- 🔥 [**Blogs by shen**](https://github.com/shenleeosialai/OSHEN-BLOGS)
+- 🛒 [**Oshen comics**](https://github.com/shenleeosialai/OSHEN-COMICS)
+- 💬 [**B-hyve**](https://github.com/shenleeosialai/B-HYVE)
 
 > 🌟 *More projects on the way…*
 
