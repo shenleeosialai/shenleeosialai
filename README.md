@@ -22,7 +22,7 @@
 
 ## 🧩 About
 
-💻 Specializing in **Python, Django, JavaScript, and C++**  
+💻 Specializing in **Python, Django, JavaScript,React, and C++**  
 🌍 Passionate about **decentralized apps, e-commerce platforms, and real-time systems**  
 🌱 Currently learning **C++** for Big Tech & AI systems  
 🎯 Goal: Join a **global tech team** and contribute to impactful open-source tools  
