@@ -1,5 +1,4 @@
 <h1> Shen Lee</h1>
-
 <pre>
     ~ currently working on backend projects
     ~ learning Go, still trying to understand C++
