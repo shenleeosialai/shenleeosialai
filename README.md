@@ -1,4 +1,4 @@
-<h1> Shen Lee</h1>
+<h1> Shen Lee
 <pre>
     ~ currently working on backend projects
     ~ learning Go, still trying to understand C++
@@ -6,3 +6,4 @@
     ~ always open to collaborate and learn
     ~ ooh and a hardcore Linux user 🐧
 </pre>
+</h1>
