@@ -18,4 +18,4 @@ I am obsessed with the architecture of scale,designing backend systems and algor
  </p>
 
 ### 🎧 On Spotify – Now Playing:
-![shens spotify](https://spotify-recently-played-readme.vercel.app/api?user=31sbt4gmogiuw6nun6bqlnwa6tp4&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31sbt4gmogiuw6nun6bqlnwa6tp4&count=1)
