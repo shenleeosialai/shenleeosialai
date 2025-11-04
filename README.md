@@ -1,6 +1,7 @@
 ### Shen Lee
 
-just a chill guy who loves to develop stuff, read comic books, watch alot of cinema and loves cats.
+
+I am obsessed with the architecture of scale,designing backend systems and algorithms that can support millions of concurrent users and process complex, real-world data. My current focus is on platforms that redefine how humans interact with information and with each other.
 
 &nbsp;&nbsp;&nbsp;&nbsp;●&nbsp; learning Go, still trying to understand C++  
 &nbsp;&nbsp;&nbsp;&nbsp;●&nbsp; I love Python, JavaScript not that much  
