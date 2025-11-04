@@ -8,5 +8,14 @@ I am obsessed with the architecture of scale,designing backend systems and algor
 &nbsp;&nbsp;&nbsp;&nbsp;●&nbsp; always open to collaborate and learn  
 &nbsp;&nbsp;&nbsp;&nbsp;●&nbsp; ooh and a hardcore Linux user 🐧
 
-### 🎧 On Spotify – I'm Listening to:
-[![Freedom by Pharrell Williams](https://i.scdn.co/image/ab67616d0000b2734d92ac794d3f82484a70c8e8)](https://open.spotify.com/track/0jFZpZ8pLctK3GMBO4ZCwF)
+<p align="center">
+ <a href="https://www.instagram.com/_.shenlee/">
+    <img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/shen-lee-osialai-089403251/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+ </p>
+
+### 🎧 On Spotify – Now Playing:
+![Shenlee](https://spotify-recently-played-readme.vercel.app/api?user=31sbt4gmogiuw6nun6bqlnwa6tp4)
