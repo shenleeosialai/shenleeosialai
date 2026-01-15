@@ -3,9 +3,9 @@
 
 I am obsessed with the architecture of scale,designing backend systems and algorithms that can support millions of concurrent users and process complex, real-world data. My current focus is on platforms that redefine how humans interact with information and with each other.
 
-&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp; learning Go, I love Python
-&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp; I'm also specializing in cloud security
-&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp; always open to collaborate and learn
+&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp; learning Go, I love Python   
+&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp; I'm also specializing in cloud security  
+&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp; always open to collaborate and learn  
 &nbsp;&nbsp;&nbsp;&nbsp;●&nbsp; ooh and a hardcore Linux user 🐧
 
 <p align="center">
