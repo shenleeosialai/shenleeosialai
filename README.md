@@ -1,21 +1,10 @@
-### Shen Lee
+### SHEN LEE — pentester, cloud security
 
+Offensive security, mostly AD, cloud-focused. Break it, document it, help fix it.
 
-I am obsessed with the architecture of scale,designing backend systems and algorithms that can support millions of concurrent users and process complex, real-world data. My current focus is on platforms that redefine how humans interact with information and with each other.
+- 🐍 Python (daily driver) · 🐹 Go (learning, mostly for tooling)
+- ☁️ Cloud security — AWS/Azure attack paths, misconfig hunting
+- 🐧 Linux, always
+- 🤝 Open to collabs, CTFs, or just talking shop
 
-&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp; learning Go, I love Python   
-&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp; I'm also specializing in cloud security  
-&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp; always open to collaborate and learn  
-&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp; ooh and a hardcore Linux user 🐧
-
-<p align="center">
- <a href="https://www.instagram.com/_.shenlee/">
-    <img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>&nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/shen-lee-osialai-089403251/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
- </p>
-
-### 🎧 On Spotify – Now Playing:
-<!--![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31sbt4gmogiuw6nun6bqlnwa6tp4&count=1) -->
+[![HTB Profile](https://www.hackthebox.eu/badge/image/3264406)](https://app.hackthebox.com/profile/3264406)
